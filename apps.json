@@ -1,0 +1,10 @@
+[
+ 	{
+		"name": "PDF Invoice",
+		"alias": "pdf-invoice",
+		"description": "Print orders bills on printer or export in PDF",
+		"image": "https://i.imgur.com/7g8X3ll.jpg",
+		"link": "https://gum.co/hgUjZ",
+		"price":"Free"
+	}
+]
