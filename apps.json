@@ -17,6 +17,23 @@
 		"price":"Free"
 	},
 	{
+		"name": "Vendor app",
+		"alias": "vendor_app",
+		"description": "Give your vendors mobile app where they can manage the orders ( iOS + Android )",
+		"image": "https://i.imgur.com/HvU0w66.jpg",
+		"link": "https://codecanyon.net/item/vendor-app-whatsapp-food-foodtiger-qr-menu-maker/31223842",
+		"price":"49$"
+	},
+	{
+		
+		"name": "Custom Timezone",
+		"alias": "timezone",
+		"description": "Give your vendors option to set their own timezone",
+		"image": "https://i.imgur.com/2jTCYsg.jpg",
+		"link": "https://gum.co/GpTmO",
+		"price":"Free"
+	},
+	{
 		
 		"name": "Automated Printing",
 		"alias": "print-node",
@@ -54,6 +71,24 @@
 	},
 	{
 		
+		"name": "Mollie Payments",
+		"alias": "mollie",
+		"description": "Accept payments for orders via Mollie",
+		"image": "https://i.imgur.com/px8tL7e.jpg",
+		"link": "https://gum.co/BUsLu",
+		"price":"Free"
+	},
+	{
+		
+		"name": "Razorpay Payments",
+		"alias": "razorpay",
+		"description": "Accept payments for orders via Razorpay",
+		"image": "https://i.imgur.com/cDmximk.jpg",
+		"link": "https://gum.co/LcQov",
+		"price":"Free"
+	},
+	{
+		
 		"name": "Mercadopago Payments",
 		"alias": "mercadopago",
 		"description": "Accept payments for orders via Mercadopago",
@@ -61,4 +96,22 @@
 		"link": "https://gum.co/bOpIe",
 		"price":"Free"
 	},
+	{
+		
+		"name": "Paystack Payments",
+		"alias": "paystack",
+		"description": "Accept payments for orders via Paystack",
+		"image": "https://i.imgur.com/IPESASN.jpg",
+		"link": "https://gum.co/virSu",
+		"price":"Free"
+	},
+	{
+		
+		"name": "PayFast Payments",
+		"alias": "payfast",
+		"description": "Accept payments for orders via PayFast",
+		"image": "https://i.imgur.com/TUzPnfb.jpg",
+		"link": "https://gum.co/qMnRb",
+		"price":"Free"
+	}
 ]
