@@ -4,8 +4,16 @@
 		"name": "PDF Invoice",
 		"alias": "pdf-invoice",
 		"description": "Print orders bills on printer or export in PDF",
-		"image": "https://whatstore.com.br/modules_download/pdf.jpg",
-		"link": "https://whatstore.com.br/modules_download/PdfInvoice.zip",
+		"image": "https://i.imgur.com/7g8X3ll.jpg",
+		"link": "https://gum.co/hgUjZ",
+		"price":"Free"
+	},
+	{
+		"name": "Impressum",
+		"alias": "impressum",
+		"description": "Add Impressum on the bottom of the menu",
+		"image": "https://i.imgur.com/oUdSkIZ.jpg",
+		"link": "https://gum.co/BYJuD",
 		"price":"Free"
 	},
 	{
@@ -13,7 +21,7 @@
 		"name": "Automated Printing",
 		"alias": "print-node",
 		"description": "Automated printing on thermal and regular printer. Via printnode.com",
-		"image": "https://whatstore.com.br/modules_download/printing.jpg",
+		"image": "https://i.imgur.com/lDVhR9p.jpg",
 		"link": "https://codecanyon.net/item/thermal-printer-module-for-foodtiger-whatsapp-food-and-qr-menu/31788757",
 		"price":"49$"
 	},
@@ -22,8 +30,8 @@
 		"name": "PayPal Payments",
 		"alias": "paypal",
 		"description": "Accept payments for orders via PayPal",
-		"image": "https://whatstore.com.br/modules_download/paypal.jpg",
-		"link": "https://whatstore.com.br/modules_download/Paypal.zip",
+		"image": "https://i.imgur.com/zelnjW8.jpg",
+		"link": "https://gum.co/iUZAu",
 		"price":"Free"
 	},
     	{
@@ -31,8 +39,17 @@
 		"name": "PayPal Subscribe",
 		"alias": "paypal-subscribe",
 		"description": "Accept subscriptions for plans via PayPal",
-		"image": "https://whatstore.com.br/modules_download/paypal_subscribe.jpg",
-		"link": "https://whatstore.com.br/modules_download/PaypalSubscribe.zip",
+		"image": "https://i.imgur.com/NeZ2jhj.jpg",
+		"link": "https://gum.co/IksoFZ",
+		"price":"Free"
+	},
+	{
+		
+		"name": "Paddle Subscribe",
+		"alias": "paddle-subscribe",
+		"description": "Accept subscriptions for plans via Paddle",
+		"image": "https://i.imgur.com/YLEU2Ht.jpg",
+		"link": "https://gum.co/KrbHn",
 		"price":"Free"
 	},
 	{
@@ -40,8 +57,8 @@
 		"name": "Mercadopago Payments",
 		"alias": "mercadopago",
 		"description": "Accept payments for orders via Mercadopago",
-		"image": "https://whatstore.com.br/modules_download/mercado.jpg",
-		"link": "https://whatstore.com.br/modules_download/Mercadopago.zip",
+		"image": "https://i.imgur.com/BEBNbQT.jpg",
+		"link": "https://gum.co/bOpIe",
 		"price":"Free"
-	}
+	},
 ]
